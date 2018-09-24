@@ -1,0 +1,35 @@
+* {
+    box-sizing:border-box;
+}
+
+body {
+    background-image: url(images/qbkls.png);
+
+}
+
+.topHeaderContainer {
+    border-bottom:2px solid #cccccc; 
+    width: 100%;
+}
+
+.navCustom {
+    width: 980px; 
+    margin: auto;  
+}
+
+.aboutMeRow {
+    border-bottom: 2px solid #cccccc;
+}
+
+p {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 200%;
+
+}
+
+.footerCustom {
+    background-color: #666666;
+    border-top: 2px solid #4aaaac;
+    bottom:0;
+    color: #ffffff;
+}
