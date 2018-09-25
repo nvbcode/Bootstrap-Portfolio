@@ -22,7 +22,10 @@ body {
     margin: auto;
 }
 
-
+/* .customContainer{
+    width:980px; 
+    background-color: #ffffff;
+} */
 .aboutMeRow {
     border-bottom: 2px solid #cccccc;
     font-family: 'Georgia', 'Times', 'Times New Roman','serif';
@@ -58,3 +61,12 @@ p {
     color: #ffffff;
     border-color: #4aaaac;
 }
+
+/* @media screen and (max-width:575px){
+    .container{
+        width:100%;
+    }
+    .footer{
+        width:100%;
+    }
+} */
