@@ -14,7 +14,7 @@ body {
 
 .navCustom {
     width: 980px; 
-    margin: auto;  
+    margin: auto;
 }
 
 .aboutMeRow {
@@ -33,3 +33,16 @@ p {
     bottom:0;
     color: #ffffff;
 }
+
+/* /* .card-footer {
+    position:relative;
+} */
+
+.portfolioTitles {
+    background-color: #4aaaac;
+    color: #ffffff;
+    text-align:center;
+
+
+}
+
