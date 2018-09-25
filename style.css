@@ -7,6 +7,11 @@ body {
 
 }
 
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 .topHeaderContainer {
     border-bottom:2px solid #cccccc; 
     width: 100%;
@@ -17,8 +22,11 @@ body {
     margin: auto;
 }
 
+
 .aboutMeRow {
     border-bottom: 2px solid #cccccc;
+    font-family: 'Georgia', 'Times', 'Times New Roman','serif';
+    color: #4aaaac;
 }
 
 p {
@@ -42,7 +50,11 @@ p {
     background-color: #4aaaac;
     color: #ffffff;
     text-align:center;
-
-
 }
 
+.btnCustom {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #4aaaac;
+    color: #ffffff;
+    border-color: #4aaaac;
+}
